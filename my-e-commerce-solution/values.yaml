@@ -1,0 +1,10 @@
+### Global Values if any ###
+global: {}
+
+### Sub Charts Specific Values ###
+# helloworld
+helloworld:
+  enabled: true
+# helloworld1
+helloworld1:
+  enabled: true

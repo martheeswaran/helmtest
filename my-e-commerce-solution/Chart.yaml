@@ -1,4 +1,4 @@
-apiVersion: v3
+apiVersion: v4
 name: my-e-commerce-solution
 description: A Parent Helm chart for Kubernetes
 type: application
